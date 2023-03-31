@@ -39,7 +39,7 @@
             "#1F1526"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#19111E"
+            "#150E19"
         ],
         "BACKGROUND_TERTIARY": [
             "#1e1f22"
@@ -118,7 +118,7 @@
         "PRIMARY_700": "#1e1f22",
         "PRIMARY_800": "#111214",
         "BRAND_260": "#c9cdfb",
-        "BRAND_500": "#5865f2",
+        "BRAND_500": "#cb93df",
         "BRAND_900": "#04050c",
         "YELLOW_300": "#f0b232",
         "GREEN_600": "#0e431f",
