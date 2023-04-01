@@ -44,13 +44,13 @@
         ],
 
         "INTERACTIVE_ACTIVE": [
-            "#f2f3f5"
+            "#c992de"
         ],
         "INTERACTIVE_HOVER": [
             "#dbdee1"
         ],
         "INTERACTIVE_MUTED": [
-            "#4e5058"
+            "#2B1A33"
         ],
         
         
@@ -65,10 +65,10 @@
         ],
 
         "CHANNEL_ICON": [
-            "#ffffff"
+            "#c992de"
         ],
         "CHANNELS_DEFAULT": [
-            "#949ba4"
+            "#9f5eb8"
         ],
 
         "CHANNELTEXTAREA_BACKGROUND": [
