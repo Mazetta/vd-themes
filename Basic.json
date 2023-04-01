@@ -44,13 +44,13 @@
         ],
 
         "INTERACTIVE_ACTIVE": [
-            "#cb93df"
+            "#00ffff"
         ],
         "INTERACTIVE_HOVER": [
             "#333333"
         ],
         "INTERACTIVE_MUTED": [
-            "#cb93df"
+            "#ff0000"
         ],
         
         
@@ -68,7 +68,7 @@
             "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#00ff00"
         ],
 
         "CHANNELTEXTAREA_BACKGROUND": [
