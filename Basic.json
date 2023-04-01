@@ -37,10 +37,10 @@
         ],
 
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent"
+            "#1C0C26"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#1C0C26"
         ],
 
         "INTERACTIVE_ACTIVE": [
