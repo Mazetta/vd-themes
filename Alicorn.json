@@ -109,7 +109,7 @@
         "PRIMARY_500": "#1D1821",
         "PRIMARY_100": "#f9f9f9",
         "PRIMARY_200": "#e3e5e8",
-        "PRIMARY_300": "#00ffff",
+        "PRIMARY_300": "#1B161E",
         "PRIMARY_360": "#949ba4",
         "PRIMARY_400": "#80848e",
         "PRIMARY_600": "#1B0E23",
@@ -123,7 +123,7 @@
         "YELLOW_300": "#f0b232",
         "GREEN_600": "#0e431f",
         "DANGER": "#F23F43",
-        "RED_400": "#f23f43",
+        "RED_400": "#e9438b",
         "WHITE_500": "#ffffff",
         "GREEN_360": "#23a55a"
     },
