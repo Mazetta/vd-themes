@@ -12,10 +12,10 @@
             "#261133"
         ],
         "BACKGROUND_SECONDARY": [
-            "#2b2b2b"
+            "#130819"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#2b2b2b"
+            "#130819"
         ],
         "BACKGROUND_TERTIARY": [
             "#261133"
@@ -27,13 +27,13 @@
             "#261133"
         ],
         "BACKGROUND_FLOATING": [
-            "#2b2b2b"
+            "#130819"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#261133"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#2b2b2b"
+            "#130819"
         ],
 
         "BACKGROUND_MODIFIER_ACCENT": [
@@ -81,11 +81,11 @@
     },
     "rawColors": {
         "PRIMARY_500": "#16091E",
-        "PRIMARY_600": "#21102D",
+        "PRIMARY_600": "#130819",
         "PRIMARY_630": "#261133",
         "PRIMARY_660": "#261133",
         "PRIMARY_700": "#261133",
-        "PRIMARY_800": "#130819",
+        "PRIMARY_800": "#261133",
         "BRAND_260": "#cb93df",
         "BRAND_500": "#cb93df",
         "BRAND_900": "#cb93df",
