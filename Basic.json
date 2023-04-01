@@ -69,14 +69,14 @@
         ],
 
         "CHANNEL_ICON": [
-            "#fafafa"
+            "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
-            "#fafafa"
+            "#ffffff"
         ],
 
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#fafafa"
+            "#ffffff"
         ]
     },
     "rawColors": {
