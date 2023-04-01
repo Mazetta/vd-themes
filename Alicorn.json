@@ -51,10 +51,10 @@
             "#111214"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#313338"
+            "#ff0000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#2b2d31"
+            "#00ffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#2b2d31"
