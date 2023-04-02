@@ -9,8 +9,8 @@
     "spec": 2,
     "semanticColors": {
         "CHAT_BACKGROUND":              ["#2b2329"],
-        "HEADER_PRIMARY":               ["#00ffff"],
-        "HEADER_SECONDARY":             ["#fffeff"],
+        "HEADER_PRIMARY":               ["#e792c5"],
+        "HEADER_SECONDARY":             ["#00ffff"],
         "TEXT_NORMAL":                  ["#fbfbfb"],
         "TEXT_MUTED":                   ["#e792c1"],
         "INTERACTIVE_NORMAL":           ["#fffeff"],
