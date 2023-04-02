@@ -18,7 +18,7 @@
         "INTERACTIVE_ACTIVE":           [ "#ffffff", "#070607" ],
         "INTERACTIVE_MUTED":            [ "#bf8ab0", "#d1c7cf" ],
         "BACKGROUND_PRIMARY":           [ "#EFB15E", "#ffffff" ],
-        "BACKGROUND_SECONDARY":         [ "#332932", "#f5f2f5" ],
+        "BACKGROUND_SECONDARY":         [ "#BE9051", "#f5f2f5" ],
         "BACKGROUND_SECONDARY_ALT":     [ "#241d22", "#efebef" ],
         "BACKGROUND_TERTIARY":          [ "#282027", "#e8e3e8" ],
         "BACKGROUND_ACCENT":            [ "#ffb5f3", "#ad8baa" ],
