@@ -8,10 +8,10 @@
     }],
     "spec": 2,
     "semanticColors": {
-        "CHAT_BACKGROUND":              ["#2b2329"],
-        "HEADER_PRIMARY":               ["#e792c5"],
+        "CHAT_BACKGROUND":              ["#C9ABD1"],
+        "HEADER_PRIMARY":               ["#9460A8"],
         "HEADER_SECONDARY":             ["#fffeff"],
-        "TEXT_NORMAL":                  ["#00ffff"],
+        "TEXT_NORMAL":                  ["#ffffff"],
         "TEXT_MUTED":                   ["#e792c1"],
         "INTERACTIVE_NORMAL":           ["#fffeff"],
         "INTERACTIVE_HOVER":            ["#dedcde"],
