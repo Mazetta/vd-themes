@@ -1,3 +1,5 @@
 # Vendetta Themes
-## Made by Mazeriio#4833
-- My Vendetta themes, to test concepts.
+
+- Hello, I'm Mazeriio! In this repo, I'll create themes for Vendetta and I'll test some concepts!
+
+- First theme: https://raw.githubusercontent.com/Mazetta/vd-themes/main/Alicorn-V2.json
