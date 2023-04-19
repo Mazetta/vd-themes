@@ -1,10 +1,10 @@
 {
-    "name": "Greengu",
-    "description": "This is the way.",
+    "name": "Orange Mountains",
+    "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
     "authors": [
         {
-            "name": "Mazeriio",
-            "id": "621311071449513997"
+            "name": "Wizzy#0211",
+            "id": "715443625580036128"
         }
     ],
     "semanticColors": {
@@ -12,19 +12,19 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "TEXT_LINK": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "TEXT_DANGER": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -33,49 +33,49 @@
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#545454"
+            "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_ACCENT": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "BACKGROUND_FLOATING": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_MENTIONED": [
-            "#1f1f1f"
+            "#e6ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#1f1f1f"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1f1f1f"
+            "#181818"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1f1f1f"
+            "#181818"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,44 +84,47 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#1f1f1f"
+            "#181818"
         ],
         "CHANNELS_DEFAULT": [
-            "#cfcfcf"
+            "#c4c4c4"
         ],
         "TEXT_LINK": [
-            "#d5787b"
+            "#ed6a19"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#1f1f1f"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#d5787b",
-        "PRIMARY_500": "#d5787b",
-        "PRIMARY_600": "#1f1f1f",
-        "PRIMARY_630": "#1f1f1f",
-        "PRIMARY_660": "#1f1f1f",
-        "PRIMARY_700": "#1f1f1f",
-        "PRIMARY_800": "#1f1f1f",
-        "BRAND_260": "#d5787b",
-        "BRAND_360": "#d5787b",
-        "BRAND_500": "#d5787b",
+        "PRIMARY_360": "#ed6a19",
+        "PRIMARY_500": "#ed6a19",
+        "PRIMARY_600": "#181818",
+        "PRIMARY_630": "#181818",
+        "PRIMARY_660": "#181818",
+        "PRIMARY_700": "#181818",
+        "PRIMARY_800": "#181818",
+        "BRAND_260": "#ed6a19",
+        "BRAND_360": "#ed6a19",
+        "BRAND_500": "#ed6a19",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#d5787b",
-        "YELLOW_300": "#d5787b",
-        "ORANGE_345": "#d5787b",
-        "GREEN_345": "#d5787b",
-        "GREEN_360": "#d5787b",
-        "RED_560" : "#d5787b",
-        "RED_400": "#d5787b"
+        "BLUE_345": "#ed6a19",
+        "YELLOW_300": "#ed6a19",
+        "ORANGE_345": "#ed6a19",
+        "GREEN_345": "#ed6a19",
+        "GREEN_360": "#ed6a19",
+        "RED_560" : "#ed6a19",
+        "RED_400": "#ed6a19"
     },
-    "spec": 2
+    "spec": 2,
+    "background": {
+        "blur": 0.6,
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
+        "alpha": 0.5,
+        "color": "#181818"
+    }
 }
