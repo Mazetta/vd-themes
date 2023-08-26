@@ -221,5 +221,12 @@
         "BLUE_630": "#452466",
         "BLUE_660": "#3C2059",
         "BLUE_700": "#331B4C"
-    }
+    },
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#E6CAF9",
+        "mentionLineColor": "#6F517C",
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
+    },
 }
