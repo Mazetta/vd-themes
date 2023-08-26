@@ -1,0 +1,16 @@
+{
+    "name": "Testing",
+    "description": "idk",
+	"authors": [
+      {
+         "name": "Mazetta",
+         "id": "621311071449513997"
+      }
+    ],
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+}
