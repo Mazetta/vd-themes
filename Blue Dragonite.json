@@ -1,0 +1,135 @@
+{
+    "name": "Blue Dragonite",
+    "description": "Dragon's Kingdom, be carful!",
+    "authors": [
+       
+        {
+            "name": "Mazetta",
+            "id": "621311071449513997"
+          
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#c3a1ff"
+        ],
+        "TEXT_NORMAL": [
+            "#e5d9fa"
+        ],
+        "TEXT_MUTED": [
+            "#b790fc"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#c3a1ff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#9860f7"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#6a49a3"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#2c0f5e"
+        ],
+        "BACKGROUND_SECONDARY": [
+           "#5b2b8f" 
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#51287d"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#310b59"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2f0e52"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#553c80"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#331d59"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#391d6b"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#9860f7"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#4b3870"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#3d2b52"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#4c258f"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "503E38"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#724db0"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#daaaf2"
+        ],
+        "TEXT_LINK": [
+            "#9e66ff"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#EFDFD7"
+        ],
+        "CHAT_BACKGROUND": [
+            "#370d57"
+        ]
+    },
+    "rawColors":{
+
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#d4aaf2",
+        "PRIMARY_360": "#d3a5f0",  
+        "PRIMARY_400": "#7b26bd",
+        "PRIMARY_600": "#370d57",
+        "PRIMARY_630": "#6c3a91",
+        "PRIMARY_660": "#421f5c",
+        "PRIMARY_700": "#7d33b5",
+        "PRIMARY_800": "#270540",
+        "BRAND_500": "#8f2ff5"
+       
+    },
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1091396564343341128/1145264103053590548/72572616aa047fdf2e58b1f50269e8f5.jpg"
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+}
