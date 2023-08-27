@@ -125,6 +125,7 @@
     },
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1091396564343341128/1145264103053590548/72572616aa047fdf2e58b1f50269e8f5.jpg"
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
