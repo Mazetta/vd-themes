@@ -1,6 +1,6 @@
 {
-    "name": "Testing",
-    "description": "idk",
+    "name": "ClearVision v1.2.6",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
 	"authors": [
       {
          "name": "Mazetta",
@@ -308,16 +308,6 @@
             "#7eb3f0",
             "#000000"
         ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#102b47",
-            "#7eb3f0",
-            "#000000"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#102b47",
-            "#7eb3f0",
-            "#000000"
-        ],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
             "#061428",
@@ -421,10 +411,10 @@
         "PRIMARY_460": "#061428",
         "PRIMARY_500": "#114d91",
         "PRIMARY_560": "#102b47",
-        "PRIMARY_600": "#06142800",
-        "PRIMARY_630": "#061428",
-        "PRIMARY_660": "#061428",
-        "PRIMARY_700": "#061428",
+        "PRIMARY_600": "#061428",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
         "PRIMARY_900": "#0a2848",
         "BLACK_500": "#000000",
@@ -453,13 +443,21 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://media.discordapp.net/attachments/1091396564343341128/1145264103053590548/72572616aa047fdf2e58b1f50269e8f5.jpg",
-        "alpha": 0.3
+        "url": "https://cdn.discordapp.com/attachments/1091396564343341128/1145396236921360485/imageonline-co-brightnessadjusted.png",
+        "alpha": 0.63
     },
     "plus": {
         "version": 0,
         "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#102b47",
+            "ic_mic_muted_neutral": "#102b47",
+            "ic_soundboard":"#102b47",
+            "ic_soundboard_muted": "#102b47",
+            "ic_video": "#102b47",
+            "ic_video_disabled": "#102b47"
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
-}
+            }
